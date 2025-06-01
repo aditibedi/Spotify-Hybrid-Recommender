@@ -35,6 +35,37 @@ This project is currently in progress 🚧 and will evolve over time.
 
 4. **Hybrid Model**:
    - Combine predictions from both approaches for better accuracy
+  
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Surprise (for collaborative filtering)
+- Jupyter Notebook
+
+## ✅ To Do
+
+- [x] Perform EDA on user-track-playcount dataset
+- [ ] Build collaborative filtering model
+- [ ] Add content-based recommendation logic
+- [ ] Tune and evaluate hybrid model
+- [ ] Deploy via Streamlit or Flask (optional)
+
+## 🙋‍♀️ Author
+
+**Aditi Bedi**  
+MCA Student @ IGDTUW | Aspiring Data Analyst  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditibedi/)  
+📬 aditibedi@example.com *(replace with your real email if you want)*
+
+---
+
+> **Note:** This is a live project and under active development. Contributions, suggestions, and feedback are welcome!
+
+
 
 
 
