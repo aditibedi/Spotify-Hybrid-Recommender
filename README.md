@@ -58,8 +58,8 @@ This project is currently in progress 🚧 and will evolve over time.
 
 **Aditi Bedi**  
 MCA Student @ IGDTUW | Aspiring Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/aditibedi/)  
-📬 aditibedi@example.com *(replace with your real email if you want)*
+🔗 [LinkedIn](https://in.linkedin.com/in/aditi-bedi-b184291a0?trk=public_profile_browsemap_profile-result-card_result-card_full-click)  
+📬 aaditi26002@gmail.com
 
 ---
 
